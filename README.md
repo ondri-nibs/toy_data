@@ -16,4 +16,6 @@ A list of individuals who created the toy data:
 
   - Jedid Ahn
 
+  - Vivian Chau
+
   - Derek Beaton
